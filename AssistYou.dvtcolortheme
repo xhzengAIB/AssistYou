@@ -35,35 +35,35 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.330754 0.330754 0.330754 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>Monaco - 11.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.81505 0.836829 0.813728 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNSText-Italic - 11.0</string>
+	<string>Monaco - 11.0</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.84147 0.523868 0.525584 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText-Regular - 11.0</string>
+	<string>Monaco - 11.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.81505 0.836829 0.813728 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText-Regular - 11.0</string>
+	<string>Monaco - 11.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.81505 0.836829 0.813728 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText-Regular - 15.4</string>
+	<string>Monaco - 15.4</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.81505 0.836829 0.813728 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay-Regular - 26.4</string>
+	<string>Monaco - 26.4</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.81505 0.836829 0.813728 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSText-Regular - 19.8</string>
+	<string>Monaco - 19.8</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.81505 0.836829 0.813728 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNSText-Bold - 11.0</string>
+	<string>Monaco - 11.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.209303 0.209303 0.209303 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -126,51 +126,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 16.0</string>
+		<string>Monaco - 16.0</string>
 	</dict>
 </dict>
 </plist>
